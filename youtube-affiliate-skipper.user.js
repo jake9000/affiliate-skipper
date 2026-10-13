@@ -1,9 +1,12 @@
 // ==UserScript==
-// @name         YouTube Affiliate Detector
-// @namespace    http://tampermonkey.net/
+// @name         YouTube Affiliate Skipper
+// @namespace    https://github.com/jake9000/affiliate-skipper
 // @version      1.0
-// @description  Automatically scroll down when an affiliate sticker is in use. buy an ad you fucks.
-// @author       You
+// @description  Automatically skips YouTube videos that show an affiliate product sticker, advancing to the next video.
+// @author       jake9000
+// @license      CC0-1.0
+// @homepageURL  https://github.com/jake9000/affiliate-skipper
+// @supportURL   https://github.com/jake9000/affiliate-skipper/issues
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
